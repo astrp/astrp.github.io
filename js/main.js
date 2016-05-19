@@ -54,7 +54,7 @@ jQuery(function($) {'use strict';
 	      isPause, 
 	      tick,
 	      percentTime;
-	 
+	 	// $('a.popup').popup();
 	    //Init the carousel
 	    $("#main-slider").find('.owl-carousel').owlCarousel({
 	      slideSpeed : 500,
